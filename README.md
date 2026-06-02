@@ -9,3 +9,6 @@ A simple Python project to manage student results.
 
 ## Technologies Used
 - Python
+
+## Acknowledgements
+Built with love with the help of cipherschools
